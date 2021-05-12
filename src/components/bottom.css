@@ -1,0 +1,14 @@
+.bottom {
+  height: 80px;
+  width: 100%;
+}
+.daba {
+  display: inline-block;
+  height: 50px;
+  width: 50%;
+  margin-top: 9px;
+  margin-left: 83px;
+}
+.iconss {
+  float: left;
+}

@@ -1,0 +1,37 @@
+.profile {
+  height: 100px;
+
+  width: 100%;
+  border: 1px solid;
+}
+.det {
+  width: 100%;
+  height: 100px;
+  border: 1px solid black;
+}
+
+.pro {
+  display: inline-block;
+}
+.video {
+  display: inline-block;
+  margin-right: 2px;
+}
+.name {
+  display: inline-block;
+  margin-left: 26px;
+}
+
+.call {
+  display: inline-block;
+  margin-right: 4px;
+}
+
+.ver {
+  display: inline-block;
+  margin-right: 2px;
+}
+.ali {
+  display: inline-block;
+  margin-left: 600px;
+}

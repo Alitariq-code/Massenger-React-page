@@ -1,0 +1,22 @@
+.bo {
+  height: 500px;
+  width: 100%;
+  overflow: scroll;
+}
+
+.text {
+  width: 90%;
+
+  height: 800px;
+}
+.card {
+  background-color: blue;
+}
+.massege {
+  padding: 10px;
+  margin: 10px;
+  width: fit-content;
+  margin-top: 60px;
+  margin-left: 690px;
+  background-color: blue !important;
+}

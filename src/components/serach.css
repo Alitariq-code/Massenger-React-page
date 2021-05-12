@@ -1,0 +1,15 @@
+.field {
+  color: black;
+  border-radius: 150px;
+  width: 93%;
+  height: 50px;
+  background-color: whitesmoke;
+}
+
+.seticon {
+  float: right;
+  /* font-size: 70px; */
+}
+#for {
+  width: 200px;
+}
